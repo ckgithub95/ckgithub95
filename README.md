@@ -2,15 +2,21 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <!-- Profile Picture Section -->
-<p align="center">
+<!-- <p align="center" style="margin-left: 0; margin-right: 0;">
   <img src="YOUR_COVER_PICTURE_URL" alt="Cover Picture" width="100%" height="auto" style="border-radius: 10px; border: 3px solid #0e75b6;"/>
 </p>
+-->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ckgithub95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ckgithub95"><img src="https://img.shields.io/github/followers/ckgithub95?label=Followers&style=social" alt="GitHub Followers" /></a>
-  <a href="https://twitter.com/chandankrku" target="_blank"><img src="https://img.shields.io/twitter/follow/chandankrku?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ckgithub95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="22" width="120" />
+  <a href="https://github.com/ckgithub95">
+    <img src="https://img.shields.io/github/followers/ckgithub95?label=Followers&style=social" alt="GitHub Followers" height="22" width="120" />
+  </a>
+  <a href="https://twitter.com/chandankrku" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/chandankrku?logo=twitter&style=for-the-badge" alt="Twitter Follow" height="22" width="120" />
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=ckgithub95"><img src="https://github-profile-trophy.vercel.app/?username=ckgithub95&theme=onedark" alt="Trophies" /></a>
@@ -18,27 +24,27 @@
 
 ### 🔭 Current Work
 <p align="justify">
-- Software developer with **5 years of experience** at **Tata Consultancy Services (TCS)** working on **enterprise solutions**. 
-- Building **scalable, high-performance applications**: [Kenvue](https://www.kenvue.com/)
+Software developer with <b>5 years of experience </b>at <b>Tata Consultancy Services (TCS)</b> working on <b>enterprise solutions</b>. 
+Building <b>scalable, high-performance applications</b>: <a href="https://www.kenvue.com/">Johnson&Johnson-Kenvue </a>
 </p>
 
 ### 🌱 Ongoing Learning
 <p align="justify">
-- Deepening knowledge of **System Design**, focusing on patterns, scalability, and optimizing distributed systems. 
-- Proficient with **Django** for backend development.
+Deepening knowledge of <b>System Design</b>, focusing on patterns, scalability, and optimizing distributed systems. 
+Proficient with <b>Django</b> for backend development.
 </p>
 
 ### 👯 Collaboration Interests
 <p align="justify">
-- Open-source contributions, full-stack development, **microservices architecture**, **cloud-based applications**.
-- Currently contributing to: [Schedule](https://schedule.invithi.com/) and [Scholar Rank](https://scholarrank.com/index.html).
+Open-source contributions, full-stack development, <b>microservices architecture</b>, <b>cloud-based applications</b>.
+Currently contributing to: <a href="https://schedule.invithi.com/">[Schedule]</a> and <a href="https://scholarrank.com/index.html">[Scholar Rank]</a>.
 </p>
 
 ### 💬 Ask Me About
 <p align="justify">
-- **Languages & Frameworks**: Java, Python, Django, Flask.
-- **Database & Cloud**: SQL, AWS, Azure, Docker, Kubernetes.
-- **System Design**: Scalable systems, distributed computing.
+<b>Languages & Frameworks</b>: Java, Python, Django, Flask.
+<b>Database & Cloud</b>: SQL, AWS, Azure, Docker, Kubernetes.
+<b>System Design</b>: Scalable systems, distributed computing.
 </p>
 
 ### 📫 Connect with Me
@@ -66,61 +72,60 @@
 
 <p align="center">
     <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=3776AB&size=large" alt="Python" />
+        <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=3776AB&size=large" alt="Python" height="30" width="100"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django&logoColor=092E20&size=large" alt="Django" />
+        <img src="https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django&logoColor=092E20&size=large" alt="Django" height="30" width="100"/>
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF&size=large" alt="Flask" />
+        <img src="https://img.shields.io/badge/-Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF&size=large" alt="Flask" height="30" width="100"/>
     </a>
     <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=FF9900&size=large" alt="AWS" />
+        <img src="https://img.shields.io/badge/-AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=FF9900&size=large" alt="AWS" height="30" width="100"/>
     </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank">
-        <img src="https://img.shields.io/badge/-Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=0089D6&size=large" alt="Azure" />
+        <img src="https://img.shields.io/badge/-Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=0089D6&size=large" alt="Azure" height="30" width="100"/>
     </a>
     <a href="https://docker.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&size=large" alt="Docker" />
+        <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&size=large" alt="Docker" height="30" width="100"/>
     </a>
     <a href="https://kubernetes.io" target="_blank">
-        <img src="https://img.shields.io/badge/-Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5&size=large" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/-Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5&size=large" alt="Kubernetes" height="30" width="100"/>
     </a>
     <a href="https://git-scm.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F05032&size=large" alt="Git" />
+        <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F05032&size=large" alt="Git" height="30" width="100"/>
     </a>
     <a href="https://heroku.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku&logoColor=430098&size=large" alt="Heroku" />
+        <img src="https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku&logoColor=430098&size=large" alt="Heroku" height="30" width="100"/>
     </a>
     <a href="https://developer.android.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84&size=large" alt="Android" />
+        <img src="https://img.shields.io/badge/-Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84&size=large" alt="Android" height="30" width="100"/>
     </a>
     <a href="https://angular.io" target="_blank">
-        <img src="https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031&size=large" alt="Angular" />
+        <img src="https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031&size=large" alt="Angular" height="30" width="100"/>
     </a>
     <a href="https://www.blender.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-Blender-0D1117?style=flat-square&logo=blender&logoColor=F5792A&size=large" alt="Blender" />
+        <img src="https://img.shields.io/badge/-Blender-0D1117?style=flat-square&logo=blender&logoColor=F5792A&size=large" alt="Blender" height="30" width="100"/>
     </a>
     <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3&size=large" alt="Bootstrap" />
-    </a>
+        <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3&size=large" alt="Bootstrap" height="30" width="100"/></a>
     <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=00599C&size=large" alt="C++" />
+        <img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=00599C&size=large" alt="C++" height="30" width="100"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6&size=large" alt="CSS3" />
+        <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6&size=large" alt="CSS3" height="30" width="100"/>
     </a>
     <a href="https://flutter.dev" target="_blank">
-        <img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B&size=large" alt="Flutter" />
+        <img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B&size=large" alt="Flutter" height="30" width="100"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248&size=large" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248&size=large" alt="MongoDB" height="30" width="100"/>
     </a>
     <a href="https://nodejs.org" target="_blank">
-        <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933&size=large" alt="Node.js" />
+        <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933&size=large" alt="Node.js" height="30" width="100"/>
     </a>
     <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://img.shields.io/badge/-TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00&size=large" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/-TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00&size=large" alt="TensorFlow" height="30" width="100"/>
     </a>
 </p>
 
@@ -147,5 +152,5 @@
 
 ### ⚡ Fun Fact
 <p align="justify">
-- When I’m not coding, you’ll find me exploring **new tech gadgets**, reading **non-fiction**, or playing **strategy-based video games** to hone my problem-solving skills!
+When I’m not coding, you’ll find me exploring <b>new tech gadgets</b>, reading <b>non-fiction</b>, or playing <b>strategy-based video games </b>to hone my problem-solving skills!
 </p>
