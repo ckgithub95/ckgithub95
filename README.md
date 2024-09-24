@@ -17,7 +17,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=ckgithub95"><img src="https://github-profile-trophy.vercel.app/?username=ckgithub95&theme=onedark" alt="Trophies" /></a>
 </p>
@@ -50,6 +49,9 @@ Currently contributing to: <a href="https://schedule.invithi.com/">[Schedule]</a
 ### 📫 Connect with Me: 
 <p align="left">
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  
+  <a href="https://twitter.com/chandankrku" rel="nofollow"><img src="https://camo.githubusercontent.com/8ca6cbc30815bc3ef458755d26604c424652dc18a51df3b3d708126667c31c91/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" alt="Twitter" width="150" data-canonical-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;"></a>
+  
   <a href="https://twitter.com/chandankrku" target="blank">
     <button type="button" class="btn" style="background-color: #1DA1F2; color: white;">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="20" style="margin-right: 5px;" />
