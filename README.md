@@ -2,97 +2,106 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <!-- Profile Picture Section -->
+<!-- Uncomment to add your cover picture -->
 <!-- <p align="center" style="margin-left: 0; margin-right: 0;">
-  <img src="YOUR_COVER_PICTURE_URL" alt="Cover Picture" width="100%" height="auto" style="border-radius: 10px; border: 3px solid #0e75b6;"/>
+    <img src="YOUR_COVER_PICTURE_URL" alt="Cover Picture" width="100%" height="auto" style="border-radius: 10px; border: 3px solid #0e75b6;"/>
 </p>
 -->
 
+<!-- Profile Stats Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ckgithub95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="22" width="120" />
-  <a href="https://github.com/ckgithub95">
-    <img src="https://img.shields.io/github/followers/ckgithub95?label=Followers&style=social" alt="GitHub Followers" height="22" width="120" />
-  </a>
-  <a href="https://twitter.com/chandankrku" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/chandankrku?logo=twitter&style=for-the-badge" alt="Twitter Follow" height="22" width="120" />
-  </a>
+    <img src="https://komarev.com/ghpvc/?username=ckgithub95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="22" width="120" />
+    <a href="https://github.com/ckgithub95">
+        <img src="https://img.shields.io/github/followers/ckgithub95?label=Followers&style=social" alt="GitHub Followers" height="22" width="120" />
+    </a>
+    <a href="https://twitter.com/chandankrku" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/chandankrku?logo=twitter&style=for-the-badge" alt="Twitter Follow" height="22" width="120" />
+    </a>
 </p>
 
+<!-- Trophies Section -->
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ckgithub95"><img src="https://github-profile-trophy.vercel.app/?username=ckgithub95&theme=onedark" alt="Trophies" /></a>
+    <a href="https://github-profile-trophy.vercel.app/?username=ckgithub95">
+        <img src="https://github-profile-trophy.vercel.app/?username=ckgithub95&theme=onedark" alt="Trophies" />
+    </a>
 </p>
 
+<!-- Current Work Section -->
 ### 🔭 Current Work
 <p align="justify">
-Software developer with <b>5 years of experience </b>at <b>Tata Consultancy Services (TCS)</b> working on <b>enterprise solutions</b>. 
-Building <b>scalable, high-performance applications</b>: <a href="https://www.kenvue.com/">Johnson&Johnson-Kenvue </a>
+    Software developer with <b>5 years of experience</b> at <b>Tata Consultancy Services (TCS)</b> working on <b>enterprise solutions</b>. 
+    Building <b>scalable, high-performance applications</b>: <a href="https://www.kenvue.com/">Johnson&Johnson-Kenvue</a>.
 </p>
 
+<!-- Ongoing Learning Section -->
 ### 🌱 Ongoing Learning
 <p align="justify">
-Deepening knowledge of <b>System Design</b>, focusing on patterns, scalability, and optimizing distributed systems. 
-Proficient with <b>Django</b> for backend development.
+    Deepening knowledge of <b>System Design</b>, focusing on patterns, scalability, and optimizing distributed systems. 
+    Proficient with <b>Django</b> for backend development.
 </p>
 
+<!-- Collaboration Interests Section -->
 ### 👯 Collaboration Interests
 <p align="justify">
-Open-source contributions, full-stack development, <b>microservices architecture</b>, <b>cloud-based applications</b>.
-Currently contributing to: <a href="https://schedule.invithi.com/">[Schedule]</a> and <a href="https://scholarrank.com/index.html">[Scholar Rank]</a>.
+    Open-source contributions, full-stack development, <b>microservices architecture</b>, <b>cloud-based applications</b>.
+    Currently contributing to: <a href="https://schedule.invithi.com/">[Schedule]</a> and <a href="https://scholarrank.com/index.html">[Scholar Rank]</a>.
 </p>
 
+<!-- Ask Me About Section -->
 ### 💬 Ask Me About
 <p align="justify">
-<b>Languages & Frameworks</b>: Java, Python, Django, Flask.
-<b>Database & Cloud</b>: SQL, AWS, Azure, Docker, Kubernetes.
-<b>System Design</b>: Scalable systems, distributed computing.
+    <b>Languages & Frameworks</b>: Java, Python, Django, Flask.<br>
+    <b>Database & Cloud</b>: SQL, AWS, Azure, Docker, Kubernetes.<br>
+    <b>System Design</b>: Scalable systems, distributed computing.
 </p>
 
-### 📫 Connect with Me: 
+<!-- Connect with Me Section -->
+### 📫 Connect with Me
 <p align="left">
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  
-  <a href="https://twitter.com/chandankrku" target="blank">
-    <button type="button" class="btn" style="background-color: #1DA1F2; color: white;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="20" style="margin-right: 5px;" />
-      Twitter
-    </button>
-  </a>&nbsp&nbsp
-  
-  <a href="https://www.linkedin.com/in/chandan-kumar-869970177/" target="blank">
-    <button type="button" class="btn" style="background-color: #0077B5; color: white;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" style="margin-right: 5px;" />
-      LinkedIn
-    </button>
-  </a>&nbsp&nbsp
-  
-  <a href="https://instagram.com/chandankr.ku" target="blank">
-    <button type="button" class="btn" style="background-color: #E1306C; color: white;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" style="margin-right: 5px;" />
-      Instagram
-    </button>
-  </a>&nbsp&nbsp
-  
-  <a href="https://www.youtube.com/@chandankumar-vm4eo" target="blank">
-    <button type="button" class="btn" style="background-color: #FF0000; color: white;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="20" width="20" style="margin-right: 5px;" />
-      YouTube
-    </button>
-  </a>&nbsp&nbsp
-  
-  <a href="mailto:chandankr.ku@gmail.com" target="blank">
-    <button type="button" class="btn" style="background-color: #D14836; color: white;">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Gmail" height="20" width="20" style="margin-right: 5px;" />
-      Gmail
-    </button>
-  </a>
+    <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <!-- Twitter Button -->
+    <a href="https://twitter.com/chandankrku" target="_blank">
+        <button type="button" style="background-color: #1DA1F2; color: white; display: flex; align-items: center;">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="20" style="margin-right: 5px;" />
+            Twitter
+        </button>
+    </a>&nbsp
+    <!-- LinkedIn Button -->
+    <a href="https://www.linkedin.com/in/chandan-kumar-869970177/" target="_blank">
+        <button type="button" style="background-color: #0077B5; color: white; display: flex; align-items: center;">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" style="margin-right: 5px;" />
+            LinkedIn
+        </button>
+    </a>&nbsp
+    <!-- Instagram Button -->
+    <a href="https://instagram.com/chandankr.ku" target="_blank">
+        <button type="button" style="background-color: #E1306C; color: white; display: flex; align-items: center;">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" style="margin-right: 5px;" />
+            Instagram
+        </button>
+    </a>&nbsp
+    <!-- YouTube Button -->
+    <a href="https://www.youtube.com/@chandankumar-vm4eo" target="_blank">
+        <button type="button" style="background-color: #FF0000; color: white; display: flex; align-items: center;">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="20" width="20" style="margin-right: 5px;" />
+            YouTube
+        </button>
+    </a>&nbsp
+    <!-- Gmail Button -->
+    <a href="mailto:chandankr.ku@gmail.com" target="_blank">
+        <button type="button" style="background-color: #D14836; color: white; display: flex; align-items: center;">
+            <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Gmail" height="20" width="20" style="margin-right: 5px;" />
+            Gmail
+        </button>
+    </a>
+
 </div>
 </p>
 
-
-
 ---
 
+<!-- Languages & Tools Section -->
 <h3 align="left">Languages & Tools</h3>
-
 <p align="center">
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=3776AB&size=large" alt="Python" height="30" width="100"/>
@@ -125,8 +134,7 @@ Currently contributing to: <a href="https://schedule.invithi.com/">[Schedule]</a
         <img src="https://img.shields.io/badge/-Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84&size=large" alt="Android" height="30" width="100"/>
     </a>
     <a href="https://angular.io" target="_blank">
-        <img src="https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031&size=large" alt="Angular" height="30" width="100"/>
-    </a>
+        <img src="https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031&size=large" alt="Angular" height="30" width="100"/></a>
     <!--<a href="https://www.blender.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Blender-0D1117?style=flat-square&logo=blender&logoColor=F5792A&size=large" alt="Blender" height="30" width="100"/>
     </a>-->
