@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+<!-- Profile Picture Section -->
+<p align="center">
+  <img src="YOUR_COVER_PICTURE_URL" alt="Cover Picture" width="100%" height="auto" style="border-radius: 10px; border: 3px solid #0e75b6;"/>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ckgithub95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/ckgithub95"><img src="https://img.shields.io/github/followers/ckgithub95?label=Followers&style=social" alt="GitHub Followers" /></a>
@@ -12,21 +17,29 @@
 </p>
 
 ### 🔭 Current Work
+<p align="justify">
 - Software developer with **5 years of experience** at **Tata Consultancy Services (TCS)** working on **enterprise solutions**. 
 - Building **scalable, high-performance applications**: [Kenvue](https://www.kenvue.com/)
-  
+</p>
+
 ### 🌱 Ongoing Learning
+<p align="justify">
 - Deepening knowledge of **System Design**, focusing on patterns, scalability, and optimizing distributed systems. 
 - Proficient with **Django** for backend development.
+</p>
 
 ### 👯 Collaboration Interests
+<p align="justify">
 - Open-source contributions, full-stack development, **microservices architecture**, **cloud-based applications**.
 - Currently contributing to: [Schedule](https://schedule.invithi.com/) and [Scholar Rank](https://scholarrank.com/index.html).
+</p>
 
 ### 💬 Ask Me About
+<p align="justify">
 - **Languages & Frameworks**: Java, Python, Django, Flask.
 - **Database & Cloud**: SQL, AWS, Azure, Docker, Kubernetes.
 - **System Design**: Scalable systems, distributed computing.
+</p>
 
 ### 📫 Connect with Me
 <p align="left">
@@ -47,10 +60,9 @@
   </a>
 </p>
 
-
 ---
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="left">Languages & Tools</h3>
 
 <p align="center">
     <a href="https://www.python.org/" target="_blank">
@@ -125,6 +137,15 @@
 </p>
 
 ---
+<!-- Daily Activity Chart -->
+<h3 align="left">Daily Activity</h3>
+<p align="center">
+  <img src="https://ghchart.rshah.org/ckgithub95" alt="GitHub Daily Activity Chart" style="width: 100%; max-width: 800px; height: auto;"/>
+</p>
+
+---
 
 ### ⚡ Fun Fact
+<p align="justify">
 - When I’m not coding, you’ll find me exploring **new tech gadgets**, reading **non-fiction**, or playing **strategy-based video games** to hone my problem-solving skills!
+</p>
