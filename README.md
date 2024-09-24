@@ -47,24 +47,47 @@ Currently contributing to: <a href="https://schedule.invithi.com/">[Schedule]</a
 <b>System Design</b>: Scalable systems, distributed computing.
 </p>
 
-### 📫 Connect with Me
+### 📫 Connect with Me: 
 <p align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://twitter.com/chandankrku" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandankr.ku" height="30" width="40" />
-  </a>
+    <button type="button" class="btn" style="background-color: #1DA1F2; color: white;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="20" style="margin-right: 5px;" />
+      Twitter
+    </button>
+  </a>&nbsp&nbsp
+  
   <a href="https://www.linkedin.com/in/chandan-kumar-869970177/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-kumar" height="30" width="40" />
-  </a>
+    <button type="button" class="btn" style="background-color: #0077B5; color: white;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" style="margin-right: 5px;" />
+      LinkedIn
+    </button>
+  </a>&nbsp&nbsp
+  
   <a href="https://instagram.com/chandankr.ku" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandankr.ku" height="30" width="40" />
-  </a>
+    <button type="button" class="btn" style="background-color: #E1306C; color: white;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" style="margin-right: 5px;" />
+      Instagram
+    </button>
+  </a>&nbsp&nbsp
+  
   <a href="https://www.youtube.com/@chandankumar-vm4eo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chandankumar-vm4eo" height="30" width="40" />
-  </a>
+    <button type="button" class="btn" style="background-color: #FF0000; color: white;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="20" width="20" style="margin-right: 5px;" />
+      YouTube
+    </button>
+  </a>&nbsp&nbsp
+  
   <a href="mailto:chandankr.ku@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="gmail" height="30" width="40" />
+    <button type="button" class="btn" style="background-color: #D14836; color: white;">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Gmail" height="20" width="20" style="margin-right: 5px;" />
+      Gmail
+    </button>
   </a>
+</div>
 </p>
+
+
 
 ---
 
@@ -104,9 +127,9 @@ Currently contributing to: <a href="https://schedule.invithi.com/">[Schedule]</a
     <a href="https://angular.io" target="_blank">
         <img src="https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031&size=large" alt="Angular" height="30" width="100"/>
     </a>
-    <a href="https://www.blender.org/" target="_blank">
+    <!--<a href="https://www.blender.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Blender-0D1117?style=flat-square&logo=blender&logoColor=F5792A&size=large" alt="Blender" height="30" width="100"/>
-    </a>
+    </a>-->
     <a href="https://getbootstrap.com" target="_blank">
         <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3&size=large" alt="Bootstrap" height="30" width="100"/></a>
     <a href="https://www.w3schools.com/cpp/" target="_blank">
