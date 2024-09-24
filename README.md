@@ -62,36 +62,36 @@
     <!-- Twitter Button -->
     <a href="https://twitter.com/chandankrku" target="_blank">
         <button type="button" style="background-color: #1DA1F2; color: white; display: flex; align-items: center;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="20" style="margin-right: 5px;" />
-            Twitter
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" style="margin-right: 5px;" />
+            <!--Twitter-->
         </button>
     </a>&nbsp
     <!-- LinkedIn Button -->
     <a href="https://www.linkedin.com/in/chandan-kumar-869970177/" target="_blank">
         <button type="button" style="background-color: #0077B5; color: white; display: flex; align-items: center;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" style="margin-right: 5px;" />
-            LinkedIn
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" style="margin-right: 5px;" />
+            <!--LinkedIn-->
         </button>
     </a>&nbsp
     <!-- Instagram Button -->
     <a href="https://instagram.com/chandankr.ku" target="_blank">
         <button type="button" style="background-color: #E1306C; color: white; display: flex; align-items: center;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" style="margin-right: 5px;" />
-            Instagram
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" style="margin-right: 5px;" />
+            <!--Instagram-->
         </button>
     </a>&nbsp
     <!-- YouTube Button -->
     <a href="https://www.youtube.com/@chandankumar-vm4eo" target="_blank">
         <button type="button" style="background-color: #FF0000; color: white; display: flex; align-items: center;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="20" width="20" style="margin-right: 5px;" />
-            YouTube
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="35" style="margin-right: 5px;" />
+           <!-- YouTube-->
         </button>
     </a>&nbsp
     <!-- Gmail Button -->
     <a href="mailto:chandankr.ku@gmail.com" target="_blank">
         <button type="button" style="background-color: #D14836; color: white; display: flex; align-items: center;">
-            <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Gmail" height="20" width="20" style="margin-right: 5px;" />
-            Gmail
+            <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Gmail" height="35" width="35" style="margin-right: 5px;" />
+            <!--Gmail-->
         </button>
     </a>
 
