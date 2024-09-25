@@ -179,6 +179,32 @@
   <img src="https://ghchart.rshah.org/ckgithub95" alt="GitHub Daily Activity Chart" style="width: 100%; max-width: 800px; height: auto;"/>
 </p>
 
+<h3 align="left">Daily Activity</h3>
+<p align="center">
+  <img src="https://example.com/line_chart.png" alt="Line Chart" style="width: 100%; max-width: 800px; height: auto;"/>
+</p>
+
+<h3 align="left">Daily Activity</h3>
+<p align="center">
+  <img src="https://example.com/bar_chart.png" alt="Bar Chart" style="width: 100%; max-width: 800px; height: auto;"/>
+</p>
+
+<h3 align="left">Daily Activity</h3>
+<p align="center">
+  <img src="https://example.com/pie_chart.png" alt="Pie Chart" style="width: 100%; max-width: 800px; height: auto;"/>
+</p>
+
+<h3 align="left">Daily Activity</h3>
+<p align="center">
+  <img src="https://example.com/area_chart.png" alt="Area Chart" style="width: 100%; max-width: 800px; height: auto;"/>
+</p>
+
+<h3 align="left">Daily Activity</h3>
+<p align="center">
+  <img src="https://example.com/radar_chart.png" alt="Radar Chart" style="width: 100%; max-width: 800px; height: auto;"/>
+</p>
+
+
 ---
 
 ### ⚡ Fun Fact
