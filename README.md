@@ -172,8 +172,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ckgithub95&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
 
----
+
 <!-- Daily Activity Chart -->
+<!--
+---
 <h3 align="left">Daily Activity</h3>
 <p align="center">
   <img src="https://ghchart.rshah.org/ckgithub95" alt="GitHub Daily Activity Chart" style="width: 100%; max-width: 800px; height: auto;"/>
@@ -203,8 +205,8 @@
 <p align="center">
   <img src="https://example.com/radar_chart.png" alt="Radar Chart" style="width: 100%; max-width: 800px; height: auto;"/>
 </p>
-
-
+--
+-->
 ---
 
 ### ⚡ Fun Fact
